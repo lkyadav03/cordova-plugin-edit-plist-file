@@ -53,7 +53,7 @@
 	    
 	    
 	    
-	<config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription" mode="merge">
+	<!-- <config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription" mode="merge">
             <string>Descubra lojas e promoções perto de si ao ativar o Bluetooth.</string>
         </config-file>
 	   
@@ -62,7 +62,7 @@
             
         	<string>Descubra lojas e promoções perto de si ao ativar o Bluetooth.</string>
             
-        </config-file>
+        </config-file> -->
 	    
 	   
 	 
