@@ -64,6 +64,14 @@
             
         </config-file>
 	    
+	    
+	    
+	<config-file target="*-Info.plist" parent="NSCameraUsageDescription" mode="merge">
+            
+        	<string>Descubra lojas e promoções perto de si ao usar a Câmera!</string>
+            
+        </config-file>
+	    
 	   
 	 
 	    
