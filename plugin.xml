@@ -40,7 +40,7 @@
             </array>
         </config-file>
 	    
-	<config-file target="*-Info.plist" parent="UIBackgroundModes" mode="merge">
+	<config-file target="*-Info.plist" parent="UIBackgroundModes">
             <array>
                 <string>location</string>
             </array>
