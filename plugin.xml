@@ -49,20 +49,6 @@
         </config-file>
 
 
-    	<config-file target="*-Info.plist" parent="UIStatusBarHidden">
-            <array>
-                <string>true</string>
-            </array>
-        </config-file>
-
-
-	<config-file target="*-Info.plist" parent="UIViewControllerBasedStatusBarAppearance">
-            <array>
-                <string>false</string>
-            </array>
-        </config-file>
-
-
 	    
 	<config-file target="*-Info.plist" parent="NSBluetoothPeripheralUsageDescription" mode="merge">
             <string>Descubra lojas e promoções perto de si ao ativar o Bluetooth!</string>
