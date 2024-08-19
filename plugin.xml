@@ -92,7 +92,7 @@
 
 	<config-file parent="com.apple.developer.associated-domains" target="*-Info.plist">
 	        <array>
-	            <string>applinks:https://sonae-dev.outsystemsenterprise.com/CartaoContinente</string>
+	            <string>applinks:sonae-dev.outsystemsenterprise.com</string>
 	        </array>
     	</config-file>
         
