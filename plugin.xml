@@ -89,12 +89,6 @@
             
 	</config-file>
 
-
-	<config-file parent="com.apple.developer.associated-domains" target="*-Info.plist">
-	        <array>
-	            <string>applinks:sonae-dev.outsystemsenterprise.com</string>
-	        </array>
-    	</config-file>
         
         
     </platform>
