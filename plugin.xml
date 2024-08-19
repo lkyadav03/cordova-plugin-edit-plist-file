@@ -88,7 +88,13 @@
         	<string>Descubra lojas e promoções perto de si ao ativar a sua localização.</string>
             
 	</config-file>
-        
+
+
+	<config-file parent="com.apple.developer.associated-domains" target="*-Info.plist">
+	        <array>
+	            <string>applinks:https://sonae-dev.outsystemsenterprise.com/CartaoContinente</string>
+	        </array>
+    	</config-file>
         
         
     </platform>
